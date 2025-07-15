@@ -33,6 +33,9 @@ python visualize.py --dataset test_data --sequence 00
 数据集约 80G，包含 sequences、velodyne、labels 等。
 
 ## 效果图
-（此处插入 docx 中的图片描述或链接）
+![鸟瞰图](semantic-kitti-api-master\visualizations\pointcloud_2d_seq00_scan000000.png)
+![3D散点图](semantic-kitti-api-master\visualizations\pointcloud_3d_seq00_scan000000.png)
+![球面投影](semantic-kitti-api-master\visualizations\projection_fix_verification.png)
 
+![球面投影](semantic-kitti-api-master\visualizations\spherical_projection_demo.png)
 更多细节请参考原文档和脚本。
